@@ -1,0 +1,12 @@
+---
+title: "week4"
+output: html_document
+date: "2024-10-27"
+---
+```{r}
+library(here)
+library(sf)
+library(ggplot2)
+source(here("week4", "week4.R"))
+```
+
